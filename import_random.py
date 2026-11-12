@@ -1,3 +1,4 @@
+#I made this one to test random number generators, it infintely prints out ASCII art of a red skull until you close the terminal, careful!
 import random
 import time
 from colorama import Fore, Back, Style, init
