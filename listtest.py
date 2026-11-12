@@ -1,3 +1,4 @@
+#I made this one to test lists, I grabbed 5 fun facts from "https://www.sciencefocus.com/science/fun-facts" and put them on a list
 import random
 from colorama import Fore, Back, Style, init
 import time
